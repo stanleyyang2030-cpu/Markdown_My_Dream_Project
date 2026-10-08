@@ -8,7 +8,7 @@ It's built using **HTML**, **CSS** and **JavaScript**
 ## Project Goals
 - Build a user-friendly dashboard that trakcs:
     - 🌿 *Energy use*
-    - 🚗 *Transportation Impact*
+    - 🚗 *Transportation impact*
     - 🍔 *Food consummption patterns*
 - Display personalized reports using:
     - `console.log()` to debug progress
